@@ -1,0 +1,10 @@
+
+@media (min-width: 535px) and (max-width: 825px){
+	body{
+		background-color: #BFE6E6;
+	}
+}
+@media only screen and (min-width: 535px ) and (max-width: 824px) { [class*="col-" ]{
+	width: 100%;
+    }
+}

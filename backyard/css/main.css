@@ -1,0 +1,85 @@
+/* Tu CSS va aqui */
+/* header*/
+.link{
+	text-decoration: none;
+	display: inline-block;
+	color: gray;
+	margin-right: 3%;
+	margin-top: 2%;
+}
+.link:hover{
+	transform: scale(1.1);
+    transition:-duration: 1s;
+    color: green;
+}
+.logo{
+	float: left;
+	width: 20%;
+	margin-left: 24%;
+	margin-right: 25%;
+	margin-top: 0.1%;
+}
+/*fila 1*/
+.gris{
+	background-color: #357289;
+	margin-top: 3%;
+}
+.puno{
+	font-size: 35px;
+	color: white;
+	margin-top: 2%;
+	text-align: left;
+	font-family: Arial;
+	font-weight: 600;
+	margin-bottom: 2%;
+}
+.qq{
+	padding: 4% 0 4% 22%;
+}
+.pdos{
+	color: white;
+	font-size: 11px;
+}
+/* formulario*/
+.contac{
+	color: white;
+	font-size: 20px;
+	text-align: center;
+	padding-top: 4%;
+	padding-bottom: 4%;
+}
+form{
+	width: 50%;
+	margin: auto;
+	background-color: #0F2563;
+	padding: 1%;
+	margin-top: 0.2%;
+	border-radius: 5%;
+}
+
+textarea, input {
+		width:100%;
+		margin-bottom: 2%;
+		padding: 3%;
+		box-sizing: border-box;
+		font-size: 16px;
+	}
+	.color{
+		background-color: #B6F6EE;
+		font-weight: 600;
+	}
+	.color:hover{
+		transform: scale(1.1);
+        transition:-duration: 1s;
+        color: #216590;
+	}
+	/* footer*/
+	.final{
+		color: gray;
+		font-size: 13px;
+		margin-top: 2%;
+		margin-left:24%;
+	}
+	span{
+		color: blue;
+	}
